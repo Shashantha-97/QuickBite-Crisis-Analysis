@@ -1,4 +1,5 @@
 QuickBite Express: Crisis Recovery & Strategic Analysis
+
 📌 Project Description
 This project provides a comprehensive data-driven analysis of a critical business crisis faced by QuickBite Express, a Bengaluru-based food-tech startup. The goal was to identify the depth of the impact and develop recovery strategies to regain market stability.
 
@@ -8,11 +9,8 @@ Before June 2025, QuickBite Express was performing strongly in the food-tech sec
 This resulted in a severe decline across all Key Performance Indicators (KPIs):
 
 Revenue & Orders: Sharp decline in daily order volume and total revenue.
-
 SLA Compliance %: Massive drop in delivery timelines and service level agreements.
-
 Customer Trust: Significant rise in churn rates and a fall in satisfaction scores.
-
 Partner Stability: High merchant churn as partner restaurants moved to competitors.
 
 In response, the leadership team allocated recovery funds to stabilize the platform and required a data-backed strategy to win back the market.
