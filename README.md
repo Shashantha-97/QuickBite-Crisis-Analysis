@@ -22,7 +22,7 @@ Below are the snapshots of the analytical views created for this project. You ca
 
 1. Executive Overview <img width="1878" height="1063" alt="Executive Overview" src="https://github.com/user-attachments/assets/908944b3-98d0-4902-931f-1f6836cf8ef6" />
 
-![Executive View](Screenshots/Executive Overview.png)
+![Executive OverView](Screenshots/Executive Overview.png)
 
 2. Restaurant Overview <img width="1877" height="1056" alt="Restaurant Overview" src="https://github.com/user-attachments/assets/37213986-700d-497d-8682-e7da09c97990" />
 3. Customer Overview <img width="1877" height="1057" alt="Customer Overview" src="https://github.com/user-attachments/assets/69fc4ed3-1571-441e-9f0f-9f3d9b502a13" />
