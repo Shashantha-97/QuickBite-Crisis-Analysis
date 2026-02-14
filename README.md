@@ -21,13 +21,10 @@ In response, the leadership team allocated recovery funds to stabilize the platf
 Below are the snapshots of the analytical views created for this project. You can find all images in the Screenshots/ folder.
 
 1. Executive Overview <img width="1878" height="1063" alt="Executive Overview" src="https://github.com/user-attachments/assets/908944b3-98d0-4902-931f-1f6836cf8ef6" />
-
-![Executive OverView](Screenshots/Executive Overview.png)
-
 2. Restaurant Overview <img width="1877" height="1056" alt="Restaurant Overview" src="https://github.com/user-attachments/assets/37213986-700d-497d-8682-e7da09c97990" />
 3. Customer Overview <img width="1877" height="1057" alt="Customer Overview" src="https://github.com/user-attachments/assets/69fc4ed3-1571-441e-9f0f-9f3d9b502a13" />
 4. Order and Sentiment Overview <img width="1878" height="1060" alt="Order and Sentiment Overview" src="https://github.com/user-attachments/assets/75254012-cfa9-4c7e-a79e-45e167479e17" />
-5. SLA Compliane Overview <img width="1875" height="1057" alt="SLA Compliance Overview" src="https://github.com/user-attachments/assets/ea07f88c-aadb-4ef3-8215-143897a4cc15" />
+5. SLA Compliance Overview <img width="1875" height="1057" alt="SLA Compliance Overview" src="https://github.com/user-attachments/assets/ea07f88c-aadb-4ef3-8215-143897a4cc15" />
 
 
 🛠️ Tools Used
