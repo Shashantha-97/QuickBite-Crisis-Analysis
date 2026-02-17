@@ -52,6 +52,5 @@ Beyond the technical dashboard, I translated the data into a strategic recovery 
 * **Service Recovery:** Recommended **Instant Wallet Credits** for any order exceeding EDT by **>20 mins** to preempt negative reviews.
 * **Quality Gamification:** Proposed rewarding high-QA/Packaging scores with **Top-of-App Placement** and **"Quality Verified" badges** to drive organic growth through performance rather than payouts.
 * **Sentiment Analysis:** Addressed recurring keywords like **"Again," "Late," and "Stale"** to break the cycle of repetitive operational failures.
-
----
+<img width="1879" height="1063" alt="Insights   Strategic Direction" src="https://github.com/user-attachments/assets/e115ddb5-38b9-4fbb-a2dc-da8f3657abfe" />
 
