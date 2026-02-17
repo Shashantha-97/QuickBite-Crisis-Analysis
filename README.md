@@ -15,7 +15,7 @@ This resulted in a severe decline across all Key Performance Indicators (KPIs):
 
 In response, the leadership team allocated recovery funds to stabilize the platform and required a data-backed strategy to win back the market.
 
-## 🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTMxODM1ZDYtZjQzOC00ODZmLThhZjMtZmViYmI0OWZmMDE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## 🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzZlMWE1OGEtYTFmMC00M2ZmLWE0MTUtZTRlMThkNjNjM2U0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 🖼️ Dashboard Pages
 Below are the snapshots of the analytical views created for this project. You can find all images in the Screenshots/ folder.
