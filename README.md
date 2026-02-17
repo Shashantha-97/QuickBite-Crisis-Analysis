@@ -17,15 +17,20 @@ In response, the leadership team allocated recovery funds to stabilize the platf
 
 ## 🔗 [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzZlMWE1OGEtYTFmMC00M2ZmLWE0MTUtZTRlMThkNjNjM2U0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=e684d2fa0ce976157c2c)
 
-## 🖼️ Dashboard Pages
-Below are the snapshots of the analytical views created for this project. You can find all images in the Screenshots/ folder.
+## 🖼️ Dashboard Pages  
+Below are the snapshots of the analytical views created for this project. You can find all images in the Screenshots/ folder.  
 
-**Executive Overview** <img width="1878" height="1063" alt="Executive Overview" src="https://github.com/user-attachments/assets/908944b3-98d0-4902-931f-1f6836cf8ef6" />
-**Restaurant Overview** <img width="1877" height="1056" alt="Restaurant Overview" src="https://github.com/user-attachments/assets/37213986-700d-497d-8682-e7da09c97990" />
-**Customer Overview** <img width="1877" height="1057" alt="Customer Overview" src="https://github.com/user-attachments/assets/69fc4ed3-1571-441e-9f0f-9f3d9b502a13" />
-**Order and Sentiment Overview** <img width="1878" height="1060" alt="Order and Sentiment Overview" src="https://github.com/user-attachments/assets/75254012-cfa9-4c7e-a79e-45e167479e17" />
-**SLA Compliance Overview** <img width="1875" height="1057" alt="SLA Compliance Overview" src="https://github.com/user-attachments/assets/ea07f88c-aadb-4ef3-8215-143897a4cc15" />
+**Executive Overview** <img width="1876" height="1053" alt="Executive Overview" src="https://github.com/user-attachments/assets/76efdb52-d668-45b0-b5ac-ff788b74bc48" />
 
+**Restaurant Overview** <img width="1879" height="1056" alt="Restaurant Overview" src="https://github.com/user-attachments/assets/09fe5024-b222-4d23-8c2e-b87157dc3758" />
+
+**Customer Overview** <img width="1879" height="1057" alt="Customer Overview" src="https://github.com/user-attachments/assets/abeb8de2-ef72-48c3-a2a6-03294296b127" />
+
+**Order and Sentiment Overview** <img width="1878" height="1061" alt="Order and Sentiment Overview" src="https://github.com/user-attachments/assets/30fb77e6-edc6-48f3-9d60-ba5abbd5d0af" />
+
+**SLA Compliance Overview** <img width="1878" height="1060" alt="SLA Compliance Overview" src="https://github.com/user-attachments/assets/fcd8b3a4-c0bd-4b1b-8a98-9b6d3be25a40" />
+
+**Insights and Recommendations** <img width="1879" height="1063" alt="Insights   Strategic Direction" src="https://github.com/user-attachments/assets/50e8b31c-c58a-4b4c-afcc-bd376f79c2e9" />
 
 ## 🛠️ Tools Used
 **Power Query:**  Performed extensive Data Transformation and cleaning of operational logs and incident reports.  
